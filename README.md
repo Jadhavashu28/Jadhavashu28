@@ -19,13 +19,13 @@
 ---  
 
 ## My Certifications 📜 🎓 ✔️ 
-- [Data Analytics SQL, Python, Power Bi](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link) 
-- [Data Analysis in Ms- Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
-- [ChatGPT for Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
-- [Diploma in Accouting and Finance](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
-- [ERP Tally With Gst](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
-- [Basic Computer Course](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
-- [Desk Top Publishing](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)   
+- [Data Analytics SQL, Python, Power Bi]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link) 
+- [Data Analysis in Ms- Excel]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
+- [ChatGPT for Excel]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
+- [Diploma in Accouting and Finance]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [ERP Tally With Gst]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [Basic Computer Course]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [Desk Top Publishing]-(https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)   
 
 ---
 
