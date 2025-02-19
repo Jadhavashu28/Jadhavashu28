@@ -33,6 +33,16 @@
 [![LinkedIn](https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28) 
 
+## 📫 Connect with Me  
+<p align="left">  
+<a href="https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+</a>  
+<a href="https://github.com/Jadhavashu28" target="_blank">  
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
+</a>  
+</p>
+
 ---  
 
 ## Languages & Tools  
