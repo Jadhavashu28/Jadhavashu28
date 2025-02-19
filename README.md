@@ -27,13 +27,7 @@
 - [Basic Computer Course](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
 - [Desk Top Publishing](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)   
 
----  
-
-## ✍ Blogs & Portfolio  
-- [GitHub Portfolio](#)  
-- [LinkedIn Profile](#)  
-
----  
+---
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
