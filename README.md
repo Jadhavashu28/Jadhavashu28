@@ -19,11 +19,13 @@
 ---  
 
 ## 🏆 My Certifications  
-- [Data Analysis in Excel](#)  
-- [SQL for Data Analysis](#)  
-- [Power BI for Beginners](#)  
-- [ChatGPT for Excel](#)  
-- [Fundamentals of Digital Marketing](#)  
+- [Data Analytics SQL, Python, Power Bi](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link) 
+- [Data Analysis in Ms- Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
+- [ChatGPT for Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
+- [Diploma in Accouting and Finance](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [ERP Tally With Gst](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [Basic Computer Course](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)
+- [Desk Top Publishing](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)   
 
 ---  
 
