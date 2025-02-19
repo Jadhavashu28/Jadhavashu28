@@ -58,6 +58,9 @@
     <a href="https://jupyter.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="50"/>
     </a>
+    <a href="https://colab.research.google.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" height="50"/>
+    </a>
     <a href="https://matplotlib.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
     </a>
