@@ -10,15 +10,15 @@
 
 ---  
 
-## 🔥 My Featured Projects  
-- [Sales Dashboard (Power BI)](https://github.com/Jadhavashu28/Power-BI-Dashboard)  
-- [SQL Data Cleaning & Analysis](https://github.com/Jadhavashu28/SQL---pizza-sales-)
-- [Python Data Visualization](https://github.com/Jadhavashu28/Customer-Churn-Analysis)  
-- [Automated Sales Report using Excel & Power BI](https://github.com/Jadhavashu28/Power-Bi)  
+## My Featured Projects 👨‍💻 🛰️
+- [Sales Dashboard (Power BI)](https://github.com/Jadhavashu28/Power-BI-Dashboard)📊  
+- [SQL Data Cleaning & Analysis](https://github.com/Jadhavashu28/SQL---pizza-sales-)📊
+- [Python Data Visualization](https://github.com/Jadhavashu28/Customer-Churn-Analysis)📊  
+- [Automated Sales Report using Excel & Power BI](https://github.com/Jadhavashu28/Power-Bi)📊  
 
 ---  
 
-## 🏆 My Certifications  
+## My Certifications 📜 🎓 ✔️ 
 - [Data Analytics SQL, Python, Power Bi](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link) 
 - [Data Analysis in Ms- Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
 - [ChatGPT for Excel](https://drive.google.com/drive/folders/1IdS8xc2d10DryPK8XGwGG7SHqrnEVrnE?usp=drive_link)  
