@@ -36,12 +36,21 @@
 ---  
 
 ## Connect with me  
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/YOUR-GITHUB/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR-TWITTER/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="left">  
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>  
+</a>  
+<a href="https://github.com/YOUR-GITHUB/" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>  
+</a>  
+<a href="https://twitter.com/YOUR-TWITTER/" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="40" height="40"/>  
+</a>  
+<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>  
+</a>  
 </p>
+
 
 
 
