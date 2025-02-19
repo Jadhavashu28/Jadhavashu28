@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn]([www.linkedin.com/in/ashwini-jadhav-94006](https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page))  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28) 
 
 ---  
