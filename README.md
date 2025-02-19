@@ -11,10 +11,10 @@
 ---  
 
 ## 🔥 My Featured Projects  
-- [E-commerce Sales Dashboard (Power BI)](https://github.com/Jadhavashu28/Power-Bi)  
-- [SQL Data Cleaning & Analysis](#
-- [Python Data Visualization](#)  
-- [Automated Sales Report using Excel & Power BI](#)  
+- [Sales Dashboard (Power BI)](https://github.com/Jadhavashu28/Power-BI-Dashboard)  
+- [SQL Data Cleaning & Analysis](https://github.com/Jadhavashu28/SQL---pizza-sales-)
+- [Python Data Visualization](https://github.com/Jadhavashu28/Customer-Churn-Analysis)  
+- [Automated Sales Report using Excel & Power BI](https://github.com/Jadhavashu28/Power-Bi)  
 
 ---  
 
