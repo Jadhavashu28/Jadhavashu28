@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Ashwini Jadhav  
 
-## Aspiring Data Analyst | SQL | Python | Power BI  
+## Aspiring Data Analyst | SQL | Python | Power BI ⭐ 
 
 🔍 **Currently transitioning from Sales Coordinator to Data Analyst**  
 📊 Learning **SQL, Python, Power BI** for Data Analysis  
