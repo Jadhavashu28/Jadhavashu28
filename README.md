@@ -5,7 +5,8 @@
 🔍 **Currently transitioning from Sales Coordinator to Data Analyst**  
 📊 Learning **SQL, Python, Power BI** for Data Analysis  
 💼 **7+ years** of experience in back-office operations  
-🎯 Seeking opportunities in **Data Analytics**  
+🎯 Seeking opportunities in **Data Analytics** 
+📄 Know about my work & experiences 
 
 ---  
 
@@ -29,20 +30,14 @@
 ## ✍ Blogs & Portfolio  
 - [GitHub Portfolio](#)  
 - [LinkedIn Profile](#)  
-- [Medium Blog](#)  
 
 ---  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28) 
 
 ---  
-
-### **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jadhavashu28&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadhavashu28&layout=compact&theme=radical)  
 
 🚀 *Let's connect and grow together in the Data Analytics world!*
 
