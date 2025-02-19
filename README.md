@@ -29,10 +29,6 @@
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28) 
-
 ## 📫 Connect with Me
 <p align="left">  
 <a href="https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page" target="_blank">  
