@@ -34,15 +34,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Jadhavashu28) 
 
 ---  
-
-## Connect with me
+## Languages & Tools  
 <p align="left">  
-<a href="https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
-</a>  
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">  
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
-</a>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftsqlserver.svg" alt="SQL" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40"/>  
 </p>
 
 🚀 *Let's connect and grow together in the Data Analytics world!*
