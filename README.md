@@ -37,17 +37,11 @@
 
 ## Connect with me
 <p align="left">  
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">  
+<a href="https://www.linkedin.com/in/ashwini-jadhav-940067162/?trk=public-profile-join-page" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
 </a>  
-<a href="https://github.com/YOUR-GITHUB/" target="_blank">  
+<a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">  
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>  
-</a>  
-<a href="https://twitter.com/YOUR-TWITTER/" target="_blank">  
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>  
-</a>  
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="_blank">  
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  
 </a>  
 </p>
 
