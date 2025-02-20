@@ -6,7 +6,7 @@
 📊 Learning **SQL, Python, Power BI** for Data Analysis  
 💼 **7+ years** of experience in back-office operations  
 🎯 Seeking opportunities in **Data Analytics** 
-📄 Know about my work & experiences(https://drive.google.com/drive/folders/1joY918GdMiktSxxXIO-3jTR4cIQmUvs-?usp=sharing)
+📄 Know about my work & experiences(My Resume)(https://drive.google.com/drive/folders/1joY918GdMiktSxxXIO-3jTR4cIQmUvs-?usp=drive_link)
 
 ---  
 
